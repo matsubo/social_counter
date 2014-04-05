@@ -1,0 +1,17 @@
+GEM
+  specs:
+    json (1.8.1)
+    mini_portile (0.5.2)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
+    social_counter (0.1.0)
+      json
+      nokogiri
+      thor
+    thor (0.18.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  social_counter
